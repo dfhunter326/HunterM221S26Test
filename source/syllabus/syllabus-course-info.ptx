@@ -22,13 +22,13 @@
         <!--e.g.-->
         <ul>
         <li>  
-          <em>Section 1:</em> 8:00-8:55am, MTWF Berndt 340
-        </li>
-        <li>
-            <em>Section 2:</em> 9:05-10:00am, MTWF Berndt 340
+          <em>Section 2:</em> 9:05-10:00am, MTWF Berndt 340
         </li>
         <li>
             <em>Section 3:</em> 10:10-11:05am, MTWF Berndt 340
+        </li>
+        <li>
+            <em>Section 1:</em> 11:15am-12:20pm, MTWF Berndt 340
         </li>
         <li>
             <em>Section 4:</em> 3:35-4:30pm, MTWF Berndt 340
@@ -39,12 +39,12 @@
           <ul>
             <li>
               <p>
-                <em>Sections 1 and 2 - </em> Tom Carson (<url href="mailto:trcarson@fortlewis.edu">trcarson@fortlewis.edu</url>)
+                <em>Section 2 - </em> Tom Carson (<url href="mailto:trcarson@fortlewis.edu">trcarson@fortlewis.edu</url>)
               </p>
             </li>
             <li>
               <p>
-                <em>Section 3 - </em> Levi Lorenzo (<url href="mailto:llorenzo@fortlewis.edu">llorenzo@fortlewis.edu</url>)
+                <em>Sections 1 and 3 - </em> Levi Lorenzo (<url href="mailto:llorenzo@fortlewis.edu">llorenzo@fortlewis.edu</url>)
               </p>
             </li>
             <li>
@@ -60,7 +60,10 @@
   <paragraphs xml:id="description">
     <title>Course Description</title>
     <p>
-      Enter the catalog description of the course here.
+      Limits, continuity, derivatives and integrals of functions of one variable including polynomial, root, rational, exponential, logarithmic, trigonometric, and inverse trigonometric functions. Applications of calculus are included. 
+    </p>
+    <p>
+      Prerequisites: Math 121 (minimum grade of C-) OR computed math placement score MA221
     </p>
   </paragraphs>
 
@@ -72,10 +75,7 @@
   <paragraphs xml:id="course-materials">
     <title>Course Materials</title>
     <p>
-      Required Text: Enter the required textbook here, include ISBN.
-    </p>
-    <p>
-      Other required software, suggested readings, course packs, et. should be included here.
+      Required Text:  Calculus: 8th Edition by Hughes-Hallett, Gleason, McCallum et al., ISBN: 978-1-119-77780-9.  This text is recommended.  
     </p>
   </paragraphs>
 
@@ -113,10 +113,7 @@
     <!--Course policies are made by intructional teams; these are examples.-->
     <title>Missing Class</title>
     <p>
-      If you need to miss class, that is ok. If you miss class, be sure to check Canvas and Webwork for assignments, and try to get notes from a classmate. If you're still having difficulty with the material, use office hours or the Peer Education Center to get caught up. If you need an extension on an assignment, just ask your professor and it will likely be granted.
-    </p>
-    <p>
-      If you need to miss class for an extended period of time, let your professor know so that we may work out a remote accommodation.
+      If you need to miss class, that is ok. If you miss class, be sure to check Canvas and Webwork for assignments, and try to get notes from a classmate. If you're still having difficulty with the material, use office hours or the Peer Education Center to get caught up.
     </p>
   </paragraphs>
 
