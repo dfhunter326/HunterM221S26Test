@@ -22,16 +22,16 @@
         <!--e.g.-->
         <ul>
         <li>  
-          <em>Section 1 Time and Room(s):</em> 8:00-8:55am, MTWF Berndt 340
+          <em>Section 1:</em> 8:00-8:55am, MTWF Berndt 340
         </li>
         <li>
-            <em>Section 2 Time and Room(s):</em> 9:05-10:00am, MTWF Berndt 340
+            <em>Section 2:</em> 9:05-10:00am, MTWF Berndt 340
         </li>
         <li>
-            <em>Section 3 Time and Room(s):</em> 10:10-11:05am, MTWF Berndt 340
+            <em>Section 3:</em> 10:10-11:05am, MTWF Berndt 340
         </li>
         <li>
-            <em>Section 4 Time and Room(s):</em> 3:35-4:30pm, MTWF Berndt 340
+            <em>Section 4:</em> 3:35-4:30pm, MTWF Berndt 340
         </li>
       </ul>
     </li>
@@ -39,12 +39,17 @@
           <ul>
             <li>
               <p>
-                <em>Section 1 - </em> Eddie Math (<url href="mailto:math_e@fortlewis.edu">math_e@fortlewis.edu</url>)
+                <em>Sections 1 and 2 - </em> Tom Carson (<url href="mailto:trcarson@fortlewis.edu">trcarson@fortlewis.edu</url>)
               </p>
             </li>
             <li>
               <p>
-                <em>Section 2 - </em> Emilia Numbers (<url href="mailto:enumbers@fortlewis.edu">enumbers@fortlewis.edu</url>)
+                <em>Section 3 - </em> Levi Lorenzo (<url href="mailto:llorenzo@fortlewis.edu">llorenzo@fortlewis.edu</url>)
+              </p>
+            </li>
+            <li>
+              <p>
+                <em>Section 4 - </em> Dana Hunter (<url href="mailto:dfhunter@fortlewis.edu">dfhunter@fortlewis.edu</url>)
               </p>
             </li>
           </ul>        
@@ -80,12 +85,17 @@
     <ul>
       <li>
         <p>
-          <em>Eddie Math's Office Hours:</em>
+          <em>Tom Carson's Office Hours:</em>
         </p>
       </li>
       <li>
         <p>
-          <em>Emilia Numbers' Office Hours:</em>
+          <em>Levi Lorenzo's Office Hours:</em>
+        </p>
+      </li>
+      <li>
+        <p>
+          <em>Dana Hunter's Office Hours:</em>
         </p>
       </li>
     </ul>
