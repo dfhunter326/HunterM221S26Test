@@ -215,6 +215,33 @@ var ptx_lunr_docs = [
   "number": "11",
   "title": "",
   "body": "For a general source for sample code, including exercise (other than Webwork), see . "
+},
+{
+  "id": "Activity-title",
+  "level": "1",
+  "url": "Activity-title.html",
+  "type": "Worksheet",
+  "number": "",
+  "title": "2.1 Test Handout",
+  "body": " 2.1 Test Handout   This handout contains notes and in class examples for section 2.1.   Recall that speed is the change in distance divided by change in time. Velocity is a vector quantity whose magnitude is speed and its sign indicates direction.   If is the position of an object at time , the average velocity of the object over is      A person walks at a constant speed of 2 ft\/s away from their home for 2 minutes, stops for 1 minute and then walks back towards their starting point at 3 ft\/s for 1 minute.     Sketch a graph of their position as a function of time (in seconds) over the 4 minutes described.      Find the average velocity of the person on each of the following intervals:                      "
+},
+{
+  "id": "Activity-title-4",
+  "level": "2",
+  "url": "Activity-title.html#Activity-title-4",
+  "type": "Definition",
+  "number": "12",
+  "title": "",
+  "body": " If is the position of an object at time , the average velocity of the object over is   "
+},
+{
+  "id": "Activity-title-5",
+  "level": "2",
+  "url": "Activity-title.html#Activity-title-5",
+  "type": "Worksheet Exercise",
+  "number": "1",
+  "title": "",
+  "body": "  A person walks at a constant speed of 2 ft\/s away from their home for 2 minutes, stops for 1 minute and then walks back towards their starting point at 3 ft\/s for 1 minute.     Sketch a graph of their position as a function of time (in seconds) over the 4 minutes described.      Find the average velocity of the person on each of the following intervals:                     "
 }
 ]
 
