@@ -83,10 +83,10 @@
         <cell>Monday</cell><cell>Wednesday</cell>
       </row>
       <row>
-        <cell>Wednesday</cell><cell>Friday</cell>
+      <cell>Tuesday</cell><cell>Thursday</cell>
       </row>
       <row>
-      <cell>Thursday</cell><cell>Monday</cell>
+        <cell>Wednesday</cell><cell>Friday</cell>
       </row>
       <row>
         <cell>Friday</cell><cell>Tuesday</cell>
