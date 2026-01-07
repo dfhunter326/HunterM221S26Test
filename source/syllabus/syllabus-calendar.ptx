@@ -17,7 +17,7 @@
             <cell>Wednesday</cell> <cell>Section 1.9, Algebra of limits</cell>
         </row>
         <row>
-            <cell>Friday</cell> <cell>Section 2.1, Idea of derivative</cell>
+            <cell>Friday</cell> <cell>Section 1.9, 2.1, Idea of derivative</cell>
         </row>
     </tabular>
     </p>
@@ -28,10 +28,10 @@
     <p>
     <tabular>
         <row>
-            <cell>Monday</cell> <cell>Section 2.2, Derivatives at a point</cell>
+            <cell>Monday</cell> <cell>Section 2.1, 2.2, Derivatives at a point</cell>
         </row>
         <row>
-            <cell>Tuesday</cell> <cell>Section 2.3, Derivatives as a function</cell>
+            <cell>Tuesday</cell> <cell>Section 2.2, 2.3, Derivatives as a function</cell>
         </row>
         <row>
             <cell>Wednesday</cell> <cell>Section 2.3</cell>

@@ -9,16 +9,19 @@
         <cell>Assignment Category</cell> <cell>Weight</cell>
       </row>
       <row>
-        <cell>Webwork (Online Homework System)</cell> <cell>15%</cell>
+        <cell>Webwork (Online Homework System)</cell> <cell>10%</cell>
       </row>
       <row>
-        <cell>Weekly Activities</cell> <cell>20%</cell>
+        <cell>Weekly Quizzes</cell> <cell>15%</cell>
       </row>
       <row>
-        <cell>Three Midterm Exams</cell> <cell>15% each</cell>
+        <cell>Weekly Engagement</cell> <cell>5%</cell>
       </row>
       <row>
-        <cell>Cumulative Final Exam</cell> <cell>20%</cell>
+        <cell>Three Midterm Exams</cell> <cell>16% each</cell>
+      </row>
+      <row>
+        <cell>Cumulative Final Exam</cell> <cell>22%</cell>
       </row>
     </tabular>
     <p>
@@ -90,16 +93,22 @@
       </row>
     </tabular>
     <p>
-      After the due date there will be a reduced credit period of 48 hours for each Webwork assignment in which you can receive 75% credit on all work completed.
+      After the due date there will be a reduced credit period until the next exam for each Webwork assignment in which you can receive 75% credit on all work completed.
     </p>
     <p>
       Because online homework tells you if your answer is right or wrong as soon as you submit it, and for most questions you will be allowed multiple submissions, doing online homework may take you longer than doing written homework. So, give yourself plenty of time by starting your homework ASAP after it is assigned. This will give you time to do the assignment and get help if you need it.
     </p>
   </paragraphs>
   <paragraphs xml:id="weekly-activities">
-    <title>Weekly Activities</title>
+    <title>Weekly Quizzes</title>
     <p>
-      Each week, typically on Wednesdays?, class time will be spent on an activity and / or a quiz.
+      Each week, typically on non-exam Wednesdays, class time will be spent on a quiz. To account for the potential for missed quizzes due to unforseen circumstances, we will drop the lowest 2 scores at the end of the term. If you know in advance that you will miss a quiz, please arrange to make it up before the quiz day.
+    </p>
+  </paragraphs>
+  <paragraphs xml:id="engagement">
+    <title>Engagement</title>
+    <p>
+      Once a week (generally Tuesdays) we will focus more on group work. Your weekly engagement score will be based on being present and actively engaged for the duration of these class periods. 
     </p>
   </paragraphs>
   <paragraphs xml:id="midterm-exams">
